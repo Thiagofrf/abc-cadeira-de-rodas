@@ -1,6 +1,6 @@
 export default function Footer () {
     return (
-        <footer className="flex-col absolute w-full bottom-0">
+        <footer className="flex-col absolute w-full">
             <div className="bg-[#1e3a8a] text-white flex px-60 h-24 items-center">
                 <p className="text-2xl font-bold w-1/4 text-center">Sobre a ABC</p>
                 <p className="w-3/4 text-sm">São mais de 10 anos de mercado atuando na locação venda e conserto de itens hospitalares como cadeiras de rodas, andadores, muletas e vários tipos de peças para atender suas necessidades, com os melhores preços do mercado. </p>

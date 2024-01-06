@@ -1,0 +1,24 @@
+{
+    "items": {
+      "bootstrap": [
+        "#bootstrap objects"
+      ],
+      "elastic": [
+        {
+          "id": 1,
+          "title": "Photoshoots",
+          "imageUrl": "/image1.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Adventure",
+          "imageUrl": "/image2.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Events",
+          "imageUrl": "/image3.jpg"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "items": {
+      "products": [
+        {
+            "id": 1,
+            "title": "Cama Hospitalar Manual 2 Movimentos",
+            "imageUrl": "/product1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cama Hospitalar Motorizada 5 Movimentos",
+            "imageUrl": "/product2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Cadeira de Rodas - Até 90kg",
+            "imageUrl": "/product3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Cadeira de Rodas - Até 100kg",
+            "imageUrl": "/product4.jpg"
+        }
+      ]
+    }
+  }
