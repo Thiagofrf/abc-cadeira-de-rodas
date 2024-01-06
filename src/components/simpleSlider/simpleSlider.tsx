@@ -23,6 +23,7 @@ export default function SimpleSlider() {
                 pagination={true}
                 mousewheel={true}
                 keyboard={true}
+                loop={true}
                 modules={[Navigation, Pagination, Mousewheel, Keyboard]}
                 className='mySwiper max-w-screen-xl max-h-96 mx-auto'
             >
