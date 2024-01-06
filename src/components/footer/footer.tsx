@@ -3,7 +3,7 @@ export default function Footer () {
         <footer className="flex-col absolute w-full">
             <div className="bg-[#1e3a8a] text-white flex px-60 h-24 items-center">
                 <p className="text-2xl font-bold w-1/4 text-center">Sobre a ABC</p>
-                <p className="w-3/4 text-sm">São mais de 10 anos de mercado atuando na locação venda e conserto de itens hospitalares como cadeiras de rodas, andadores, muletas e vários tipos de peças para atender suas necessidades, com os melhores preços do mercado. </p>
+                <p className="w-3/4 text-sm">São mais de 10 anos de mercado atuando na locação, venda e conserto de itens hospitalares como cadeiras de rodas, andadores, muletas e vários tipos de peças para atender suas necessidades, com os melhores preços do mercado. </p>
             </div>
             <div className="bg-[#1d4ed8] text-white flex px-60 h-40 items-center justify-between">
                 <p className="text-3xl font-bold">Rua Pernambuco, 391 - Centro - São Caetano do Sul/SP</p>
